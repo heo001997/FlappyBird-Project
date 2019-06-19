@@ -1,15 +1,16 @@
 package flappybird.app.code;
 
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.core.io.Resource;
-import org.springframework.core.io.ResourceLoader;
-
 import java.awt.event.KeyEvent;
-import java.io.File;
-import java.io.IOException;
-import java.io.InputStream;
-import java.nio.file.Paths;
 import java.util.ArrayList;
+
+/**
+ * Flappy Bird replicate is simple a under developing program.
+ * Hope you will enjoy this game.
+ *
+ * @author  Nguyễn Tiến Tú - HUBT - 15150064
+ * @version 1.0
+ * @since   6/2019
+ */
 
 public class Game {
 

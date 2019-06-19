@@ -3,6 +3,15 @@ package flappybird.app.code;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 
+/**
+ * Flappy Bird replicate is simple a under developing program.
+ * Hope you will enjoy this game.
+ *
+ * @author  Nguyễn Tiến Tú - HUBT - 15150064
+ * @version 1.0
+ * @since   6/2019
+ */
+
 public class Keyboard implements KeyListener {
 
 	private static Keyboard instance;

@@ -6,6 +6,15 @@ import java.io.File;
 import java.io.IOException;
 import java.util.HashMap;
 
+/**
+ * Flappy Bird replicate is simple a under developing program.
+ * Hope you will enjoy this game.
+ *
+ * @author  Nguyễn Tiến Tú - HUBT - 15150064
+ * @version 1.0
+ * @since   6/2019
+ */
+
 public class Util {
 
     private static HashMap<String, Image> cache = new HashMap<String, Image>();

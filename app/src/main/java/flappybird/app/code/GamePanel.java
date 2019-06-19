@@ -5,6 +5,15 @@ import java.awt.*;
 import java.awt.event.*;
 import java.awt.geom.*;
 
+/**
+ * Flappy Bird replicate is simple a under developing program.
+ * Hope you will enjoy this game.
+ *
+ * @author  Nguyễn Tiến Tú - HUBT - 15150064
+ * @version 1.0
+ * @since   6/2019
+ */
+
 public class GamePanel extends JPanel implements Runnable {
 
     private Game game;

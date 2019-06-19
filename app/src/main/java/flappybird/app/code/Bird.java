@@ -4,6 +4,15 @@ import java.awt.Image;
 import java.awt.event.KeyEvent;
 import java.awt.geom.AffineTransform;
 
+/**
+ * Flappy Bird replicate is simple a under developing program.
+ * Hope you will enjoy this game.
+ *
+ * @author  Nguyễn Tiến Tú - HUBT - 15150064
+ * @version 1.0
+ * @since   6/2019
+ */
+
 public class Bird {
 
     public int x;
